@@ -102,42 +102,42 @@ export default function App() {
       desc: "Permanent, natural-looking tooth replacement solution using titanium precision implants for full chewing restoration and aesthetic perfection.",
       tag: "Specialist Care",
       icon: Activity,
-      image: "/images/dental-implant.png"
+      image: "images/dental-implant.png"
     },
     {
       title: "Cosmetic Dentistry & Smile Design",
       desc: "Transform your smile with veneers, tooth-colored bonding, gum contouring, and advanced smile correction procedures.",
       tag: "Popular",
       icon: Sparkles,
-      image: "/images/cosmetic-dentistry.jpg"
+      image: "images/cosmetic-dentistry.jpg"
     },
     {
       title: "Dental Surgery & Extractions",
       desc: "Painless surgical extractions, wisdom tooth removal, bone grafting, and sinus lift procedures conducted by senior surgeons.",
       tag: "Surgical",
       icon: HeartPulse,
-      image: "/images/dental-surgery.jpg"
+      image: "images/dental-surgery.jpg"
     },
     {
       title: "Dental Crown & Bridge Restoration",
       desc: "High-grade zirconia, ceramic, and metal-fused crowns built for maximum durability, biocompatibility, and natural tooth shade match.",
       tag: "Restorative",
       icon: ShieldCheck,
-      image: "/images/dental-crowns.jpg"
+      image: "images/dental-crowns.jpg"
     },
     {
       title: "Root Canal Therapy (Endodontics)",
       desc: "Microscopic root canal treatment designed to save infected teeth quickly with single-visit painless technology.",
       tag: "Pain-Free",
       icon: Stethoscope,
-      image: "/images/root-canal.jpg"
+      image: "images/root-canal.jpg"
     },
     {
       title: "General & Family Dentistry",
       desc: "Comprehensive dental checkups, scaling, polishing, cavities filling, fluoride treatment, and pediatric dental care.",
       tag: "Essential",
       icon: User,
-      image: "/images/family-dentistry.jpg"
+      image: "images/family-dentistry.jpg"
     }
   ];
 
@@ -396,7 +396,7 @@ export default function App() {
           playsInline 
           className="absolute inset-0 w-full h-full object-cover z-0"
         >
-          <source src="/DURGA1.mp4" type="video/mp4" />
+          <source src="DURGA1.mp4" type="video/mp4" />
         </video>
 
         {/* Hero Content (Positioned Directly over Video) */}
